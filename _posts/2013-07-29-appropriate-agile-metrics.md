@@ -3,6 +3,7 @@ layout: post
 title: Appropriate Agile Metrics
 date: 2013-07-29 14:32:02
 categories: metrics management
+comments: true
 ---
 Much has been said and written about how you can measure being “Agile” in software development. I, for one, had my own share [writing an article](http://www.agilerecord.com/agilerecord_07.pdf) about it in an online Agile magazine back in 2011. Of which, in retrospect, makes me laugh at how bad it is. Bad in terms of ridiculous complexity. And bad in terms of missing a clear context of what the whole practice is for. All the circus was supposed to be a show by the development team, for the development team, no one else. I presented tools for them to try and gauge whether they are improving and becoming as agile as they can be. I can see that it can easily be used by people outside of the development team (yes, I’m looking at management) and misuse it. I like how someone from an Agile forum pointed out that it’s good, but ultimately is just a placebo.
 

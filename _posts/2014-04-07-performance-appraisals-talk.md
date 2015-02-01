@@ -3,6 +3,7 @@ layout: post
 title: Performance Appraisals Talk Featured in InfoQ
 date: 2014-04-07 11:03:52
 categories: management agilesingapore talk
+comments: true
 ---
 Last November 8, 2013, I had the privilege to be a speaker for the [inaugural Agile Singapore conference](http://2013.agilesingapore.org/). It was held at the awesome Marina Bay Sands and was two-fully-packed-days long. I had an awesome time interacting with the likes of Kent Beck, David Hussman, and the other great figures in the industry. Also had fun sharing and conversing not only with my colleagues at [Odd-e](http://odd-e.com), but also with the local Singaporean agile practitioners.
 

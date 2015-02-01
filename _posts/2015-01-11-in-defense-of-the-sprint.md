@@ -3,6 +3,7 @@ layout: post
 title: In Defense of the Sprint
 date: 2015-01-11
 categories: scrum
+comments: true
 ---
 I’ve been told more than once how the [Sprint](http://www.scrumguides.org/scrum-guide.html#events-sprint) is a bad idea. And that more continuous cycles like that introduced by [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)) is better. I’ve even attended a workshop where the trainer totally talked smacked about the whole concept of time-boxing and iterations. 
 
