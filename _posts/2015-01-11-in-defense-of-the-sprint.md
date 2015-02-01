@@ -4,7 +4,7 @@ title: In Defense of the Sprint
 date: 2015-01-11
 categories: scrum
 ---
-I’ve been told more than once how the [ Sprint ](http://www.scrumguides.org/scrum-guide.html#events-sprint) is a bad idea. And that more continuous cycles like that introduced by [ Kanban ](http://en.wikipedia.org/wiki/Kanban_(development)) is better. I’ve even attended a workshop where the trainer totally talked smacked about the whole concept of time-boxing and iterations. 
+I’ve been told more than once how the [Sprint](http://www.scrumguides.org/scrum-guide.html#events-sprint) is a bad idea. And that more continuous cycles like that introduced by [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)) is better. I’ve even attended a workshop where the trainer totally talked smacked about the whole concept of time-boxing and iterations. 
 
 The main problem is that there will always be activities that will not coincide with weekly or bi-weekly cycles. There will be features that will need to get shipped on Tuesday rather than on Friday when sprint ends. Or one sprint is not enough to finish one item. And maybe, fixing productions issues were not planned for the current sprint, so there’s another week before the team actually starts fixing it. All because the expectation is that the potentially shippable product increment should be available at the end.
 
