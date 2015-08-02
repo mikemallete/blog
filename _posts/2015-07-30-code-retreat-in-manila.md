@@ -38,4 +38,4 @@ At roughly 5:15pm, we ended the event by doing the Closing Circle. Everyone shar
 ![Closing Circle](/assets/images/posts/coderetreat/closing_circle.jpg)
 ![Group Photo](/assets/images/posts/coderetreat/group_photo.jpg)
 
-More photos from the event can be view [here](https://www.dropbox.com/sh/dxsf545up6i0f6z/AAAhP_bi2lqvK_geGx_-P_DOa)
+More photos from the event can be viewed [here](https://www.dropbox.com/sh/dxsf545up6i0f6z/AAAhP_bi2lqvK_geGx_-P_DOa)
