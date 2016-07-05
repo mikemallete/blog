@@ -1,14 +1,19 @@
 ---
 layout: page
-title: About
+title: About Mike Mallete
 permalink: /about/
 ---
 
-![About Mike Mallete](/assets/images/about.jpg)
+![Speaking at Agile Singapore 2013](/assets/images/about.jpg)
 
-Mike Mallete is an Agile Coach, Trainer, and Software Developer based in the Philippines. He is the first and currently the only [Certified Scrum Coach®](https://www.scrumalliance.org/certifications/csc-certification) in South East Asia, as well as a Scrum Alliance Registered Education Provider® (REP) Trainer. He has coached teams located in Europe, Asia, North America, and Australia, from junior developers to senior management. He had trained hundreds of IT personnel of various Philippine-based and multinational companies in Agile Software Development principles, practices, and software engineering techniques.
+For more than a decade and a half, I had been in the software development industry wearing multiple hats, from software development, enterprise architecture, to organisational development and management. I had been involved in the travel industry for a good number of years, as well as telecommunications, banking, healthcare, and emerging industries during my consulting and Agile Coaching practice. 
 
-He is also an experienced software developer for large-scale enterprise solutions using Java technologies. He had been involved with various open source projects starting early 2000’s.
+The last 6 years, I had been helping organisations, from small start-ups to large multi-nationals, to adopt and transition to more modern and better ways of working. 
 
-He co-founded [Odd-e PH, Inc.](http://odd-e.ph) and currently also works as an Agile Coach, trainer, and software developer for the said company. Although opinions and thoughts expressed in this blog are his alone unless otherwise specified.
+I am a [Certified Enterprise Coach](https://www.scrumalliance.org/certifications/cec-certification), first from Southeast Asia. I am also a Scrum Alliance Registered Education Provider Trainer. I have been co-training Certified Scrum Master courses since 2011. 
 
+As an experienced software developer, I've contributed to various open source products starting early 2000's.
+
+I have been a speaker in various international conferences such as those hosted by the Agile Alliance, Agile Tour, etc.
+
+Originally from the Philippines, I am currently based in Sydney, Australia.
