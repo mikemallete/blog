@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Definition of Done: Misunderstood Organisational Agility Gauge 
+title: Definition of Done&#58; Misunderstood Organisational Agility Gauge 
 date: 2019-06-23 11:00:00
 categories: scrum definition-of-done maturity 
 comments: true
